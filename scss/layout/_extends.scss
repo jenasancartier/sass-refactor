@@ -35,3 +35,14 @@
     clear: both;
   }
 }
+
+%border {
+  margin:0;
+padding: 0;
+text-align: right;
+color: white;
+padding-right: 25px;
+padding-bottom: 5px;
+padding-top: 5px;
+border-radius: 5px 5px 0px 0px;
+}
